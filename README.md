@@ -33,9 +33,7 @@
 ### 📊 Активность на GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weifox1307&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weifox1307&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weifox1307&theme=tokyonight" alt="GitHub Summary" width="90%" />
 </div>
 
 ---
