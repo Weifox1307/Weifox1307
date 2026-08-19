@@ -30,14 +30,6 @@
 
 ---
 
-### 📊 Активность на GitHub
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Weifox1307&theme=tokyonight" alt="GitHub Summary" width="90%" />
-</div>
-
----
-
 ### 📫 Контакты
 
 <p align="left">
